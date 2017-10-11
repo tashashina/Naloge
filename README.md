@@ -1,0 +1,2 @@
+# Naloge
+Python naloge
